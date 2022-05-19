@@ -27,5 +27,5 @@ function orden(n1, n2, n3, callback) {
   orden(2,1,3,call);
   orden(3,1,2,call);
   orden(1,3,2,call);
-  orden(1,2,3,call);
+  orden(1,2,3,call);s 4
   
