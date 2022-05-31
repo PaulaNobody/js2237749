@@ -19,3 +19,5 @@ sumar(100,200,impresora);
 function impresora(msj){
     console.log(`imprimiendo ${msj}`);
 }
+
+  

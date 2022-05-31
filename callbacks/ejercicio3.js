@@ -20,7 +20,7 @@
 
 
 //Ejercicio 2 (triqui)
-function letras(j1, j2,inicio) {//Funcion principal con parametros y variables
+function letras(j1, j2,inicio) {
     setTimeout(() => {
         let letra=j1;
     let letra2=j2;
@@ -39,7 +39,7 @@ function letras(j1, j2,inicio) {//Funcion principal con parametros y variables
     final()
  
   }
-  function triqui(letra, letra2,) {//Funcion principal con parametros y variables
+  function triqui(letra, letra2,) {
     setTimeout(() => {
     let fila=[letra,letra2]
     const tam=1
