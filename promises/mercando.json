@@ -1,0 +1,29 @@
+
+   
+[
+    {
+        "accion":"hacer mercado del mes",
+        "dinero_disponible":"400.000"
+    }
+    ,
+    {
+      
+        "producto":"aseo",
+        "lista":"papel,desodorante, jabon,crema dental"        
+    }
+    ,
+    {
+      
+        "producto":"cocina",
+        "lista":"Limpion, sabra, esponja"
+    },
+    {
+        "producto":"comestible",
+        "lista":"verduras,carnes,granos"
+    }
+    ,
+    {
+        "producto":"preparacion",
+        "lista":"aceite, mantequilla,sal"
+    }
+]

@@ -1,0 +1,15 @@
+[{
+    "id":"12",
+    "nombre": "Catalina",
+    "edad":"25",
+    "profesion": "Administradora",
+    "direccion":"Bogota"
+}
+,
+{
+    "id":"2",
+    "nombre": "Quenguan",
+    "edad":"24",
+    "profesion": "Estudiante",
+    "direccion":"Bogota"
+}]
